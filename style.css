@@ -13,17 +13,75 @@ body {
   padding: 16px 0;
 }
 
+.site-header {
+  background: #fff7f4;
+  text-align: center;
+  padding: 20px 0;
+  border-radius: 0 0 20px 20px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.05);
+}
+
+.header-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.logo-title {
+  font-size: 1.8rem;
+  margin-top: 12px;
+  font-weight: bold;
+}
+
+.header-icon {
+  width: 40px;
+  height: auto;
+  margin: 12px 0;
+}
+
+.tagline {
+  font-size: 1rem;
+  color: #6b5e59;
+  margin-bottom: 16px;
+}
+
+.btn-group .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 6px;
+  border-radius: 8px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
+
+.btn-whatsapp {
+  background: #25D366;
+}
+.btn-telegram {
+  background: #0088cc;
+}
+
 .section-title {
   font-size: 1.5rem;
   font-weight: bold;
   margin-top: 32px;
   margin-bottom: 16px;
+  text-align: center;
 }
 
 .section-desc {
   font-size: 1.2rem;
   margin-bottom: 32px;
   color: #382e2b;
+  text-align: center;
 }
 
 .grid {
@@ -44,9 +102,11 @@ body {
   align-items: center;
   transition: box-shadow .2s;
 }
+
 .card:hover {
   box-shadow: 0 8px 36px rgba(0,0,0,0.13);
 }
+
 .card img {
   width: 320px;
   height: 240px;
@@ -54,21 +114,25 @@ body {
   border-radius: 10px;
   margin: 16px 0 8px 0;
 }
+
 .card h3 {
   font-size: 1.3rem;
   font-weight: bold;
   margin: 8px 0 0 0;
 }
+
 .card ul {
   list-style: none;
-  padding: 0 16px 0 24px;
+  padding: 0 16px;
   margin: 10px 0 12px 0;
   text-align: left;
 }
+
 .card li {
   font-size: 1.1rem;
-  margin-bottom: 2px;
+  margin-bottom: 6px;
 }
+
 .card .btn-register {
   display: block;
   width: 90%;
@@ -83,22 +147,65 @@ body {
   text-decoration: none;
   transition: background .2s;
 }
+
 .card .btn-register:hover {
   background: #f26e57;
 }
 
+.site-footer {
+  background: #75442b;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  border-radius: 20px 20px 0 0;
+  margin-top: 40px;
+}
+
+.site-footer p {
+  margin: 0;
+  font-size: 1rem;
+}
+
 @media (max-width: 1200px) {
-  .card, .card img { width: 250px; }
-  .card img { height: 170px; }
+  .card, .card img {
+    width: 250px;
+  }
+  .card img {
+    height: 170px;
+  }
 }
+
 @media (max-width: 900px) {
-  .grid { gap: 26px 8px; }
-  .card, .card img { width: 45vw; min-width: 180px; }
-  .card img { height: 120px; }
+  .grid {
+    gap: 26px 8px;
+  }
+  .card, .card img {
+    width: 45vw;
+    min-width: 180px;
+  }
+  .card img {
+    height: 120px;
+  }
 }
+
 @media (max-width: 600px) {
-  .container { width: 99%; }
-  .card, .card img { width: 95vw; min-width: 140px; }
-  .card img { height: 100px; }
-  .section-title { font-size: 1.1rem;}
+  .container {
+    width: 99%;
+  }
+  .card, .card img {
+    width: 95vw;
+    min-width: 140px;
+  }
+  .card img {
+    height: 100px;
+  }
+  .section-title {
+    font-size: 1.1rem;
+  }
+  .logo-title {
+    font-size: 1.4rem;
+  }
+  .btn-group .btn {
+    padding: 8px 12px;
+  }
 }
