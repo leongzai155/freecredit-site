@@ -5,6 +5,13 @@ body {
     background-color: #ffe6f0;
     color: #333;
 }
+.header-icon {
+  width: 40px;        /* 或你喜欢的大小 */
+  height: 40px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 12px auto; /* 居中+间距 */
+}
 
 .container {
     max-width: 1200px;
