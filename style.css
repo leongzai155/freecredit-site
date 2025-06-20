@@ -1,218 +1,130 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Free Credit No Deposit Casinos Malaysia 2025 – Trusted Bonuses & Promotions">
-  <title>Free Credit 365 Hari | Trusted No Deposit Casino Bonuses</title>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <h1 class="logo">FREE CREDIT TRUSTED WALLET</h1>
-      <p class="tagline">JOIN CHANNEL DPT FREE CREDIT</p>
-      <img src="images/telegram-icon.png" alt="Telegram Icon" class="header-icon">
-      <div class="btn-group">
-        <a href="#" class="btn btn-whatsapp">Chat di WhatsApp</a>
-        <a href="#" class="btn btn-telegram">Join Telegram</a>
-      </div>
-    </div>
-  </header>
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffe6f0;
+    color: #333;
+}
 
-  <main>
-    <!-- Section 1: No Deposit Bonuses -->
-    <section class="section-promos container">
-      <h2 class="section-title">Best Free Credit No Deposit Bonuses in Malaysia – Top Online Casino Promotions 2025</h2>
-      <p class="section-desc">Unlock the best Free Credit No Deposit Bonuses available at top online casinos in Malaysia. Explore our exclusive list below.</p>
-      <div class="grid">
-        <!-- Row 1 -->
-        <article class="card">
-          <img src="images/senangclub.png" alt="SenangClub Logo">
-          <h3>SENANGCLUB</h3>
-          <ul>
-            <li>New Register Free RM50</li>
-            <li>Daily Free RM30</li>
-            <li>Welcome Bonus 100%</li>
-            <li>Free Share RM10</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/yes8my.png" alt="YES8MY Logo">
-          <h3>YES8MY</h3>
-          <ul>
-            <li>New Register Free RM38</li>
-            <li>Daily Free RM20</li>
-            <li>Welcome Bonus 110%</li>
-            <li>Free Share RM10</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/miking8.png" alt="Miking8 Logo">
-          <h3>MIKING8</h3>
-          <ul>
-            <li>New Register Free RM20</li>
-            <li>Daily Free RM10</li>
-            <li>Welcome Bonus 30%</li>
-            <li>Free Share RM0.50</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/magnum888.png" alt="Magnum888 Logo">
-          <h3>MAGNUM888</h3>
-          <ul>
-            <li>New Register Free RM6</li>
-            <li>Daily Free RM1</li>
-            <li>Welcome Bonus 50%</li>
-            <li>Free Share RM10</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <!-- Row 2 -->
-        <article class="card">
-          <img src="images/supreme4d.png" alt="Supreme4D Logo">
-          <h3>SUPREME4D</h3>
-          <ul>
-            <li>Welcome Bonus Free 4D 100 Number</li>
-            <li>Free Share RM0.50</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/syurkur668.png" alt="Syurkur668 Logo">
-          <h3>SYURKUR668</h3>
-          <ul>
-            <li>New Register Free RM30</li>
-            <li>Daily Free RM10</li>
-            <li>Welcome Bonus 50%+60%+70%</li>
-            <li>Free Share RM10</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/scrplay.png" alt="SCRPLAY Logo">
-          <h3>SCRPLAY</h3>
-          <ul>
-            <li>New Register Free RM20</li>
-            <li>Daily Free RM8.88</li>
-            <li>Welcome Bonus 100%+60%</li>
-            <li>Free Share RM10</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/lucky555.png" alt="Lucky555 Logo">
-          <h3>Lucky555</h3>
-          <ul>
-            <li>New Register Free RM20</li>
-            <li>Daily Free RM8.88</li>
-            <li>Welcome Bonus 60%</li>
-            <li>Free Share RM10</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-      </div>
-    </section>
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
 
-    <!-- Section 2: Free Credit 365 Hari -->
-    <section class="section-new365 container">
-      <h2 class="section-title">Best New Free Credit 365 Bonuses in Malaysia 2025</h2>
-      <p class="section-desc">Explore the top Free Credit 365 Bonuses at online casinos in Malaysia for 2025! Stay updated with the latest free credit deals.</p>
-      <div class="grid">
-        <!-- Row 1 -->
-        <article class="card">
-          <img src="images/mytown.png" alt="Mytown Logo">
-          <h3>Mytown</h3>
-          <ul>
-            <li>New Register Free RM30</li>
-            <li>Daily Free RM12</li>
-            <li>Welcome Bonus 50%</li>
-            <li>Free Share RM10</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/mratm.png" alt="MrAtm Logo">
-          <h3>MrAtm</h3>
-          <ul>
-            <li>New Register Free RM5</li>
-            <li>Daily Free RM4</li>
-            <li>Welcome Bonus 50%+100%</li>
-            <li>Free Share RM10</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/bk8.png" alt="BK8 Logo">
-          <h3>BK8</h3>
-          <ul>
-            <li>New Register Free RM20</li>
-            <li>Daily Free RM8.88</li>
-            <li>Free Share RM10</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/dking.png" alt="DKing Logo">
-          <h3>DKing</h3>
-          <ul>
-            <li>New Register Free RM20</li>
-            <li>Daily Free RM1</li>
-            <li>Free Share RM10</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <!-- Row 2 -->
-        <article class="card">
-          <img src="images/happycuci.png" alt="Happy Cuci Logo">
-          <h3>Happy Cuci</h3>
-          <ul>
-            <li>New Register Free RM35</li>
-            <li>Daily Free RM10</li>
-            <li>Welcome Bonus 50%+60%</li>
-            <li>Free Share RM0.50</li>
-          </ul>
-          <a href="#" class="btn btn-register">Register Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/mega888-app.png" alt="Mega888 APP Logo">
-          <h3>Mega888 APP</h3>
-          <ul>
-            <li>App Terbaru 2025</li>
-            <li>iOS & Android Download</li>
-          </ul>
-          <a href="#" class="btn btn-register">Download Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/pussy888-app.png" alt="Pussy888 APP Logo">
-          <h3>Pussy888 APP</h3>
-          <ul>
-            <li>App Terbaru 2025</li>
-            <li>iOS & Android Download</li>
-          </ul>
-          <a href="#" class="btn btn-register">Download Sekarang</a>
-        </article>
-        <article class="card">
-          <img src="images/918kiss-app.png" alt="918kiss APP Logo">
-          <h3>918kiss APP</h3>
-          <ul>
-            <li>App Terbaru 2025</li>
-            <li>iOS & Android Download</li>
-          </ul>
-          <a href="#" class="btn btn-register">Download Sekarang</a>
-        </article>
-      </div>
-    </section>
-  </main>
+.site-header {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 20px 0;
+}
 
-  <footer class="site-footer">
-    <div class="container">
-      <p>&copy; 2025 Free Credit 365 Hari - All Rights Reserved.</p>
-    </div>
-  </footer>
-</body>
-</html>
+.logo {
+    width: 150px;
+    display: block;
+    margin: 0 auto 15px;
+}
+
+.header-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tagline {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.btn-group {
+    margin-top: 15px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 4px;
+    margin: 5px;
+}
+
+.btn-whatsapp {
+    background-color: #25D366;
+}
+
+.btn-telegram {
+    background-color: #0088cc;
+}
+
+.section-promos {
+    padding: 40px 20px;
+}
+
+.section-title {
+    font-size: 2em;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.section-desc {
+    margin-bottom: 30px;
+    font-size: 1.1em;
+}
+
+.grid {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    flex: 1 1 200px;
+    max-width: 250px;
+    margin-bottom: 20px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.card h3 {
+    margin: 10px 0;
+}
+
+.btn-register {
+    background-color: #ff4d4d;
+    display: block;
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.site-footer {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 15px 0;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+@media (max-width: 768px) {
+    .grid {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        max-width: 100%;
+    }
+}
